@@ -41,7 +41,7 @@ u = {
             'photo_link' : 'sum9....',
             'wish_list' : 'Gift name, this, and this ',
             'location' : {
-                'faculcy' : 'CMS', 
+                'faculcy' : 'CMC', 
                 'year' : 1, 
                 'group' : 123, 
                 'main_building' : '2-Gum'
@@ -68,7 +68,7 @@ def create_data(name: str, photo_link: str, location: dict, wish_list: str, vk_l
             photo_link : 'sum9....',
             wish_list : 'Gift name, this, and this ',
             location : {
-                faculcy : 'CMS', 
+                faculcy : 'CMC', 
                 year : 1, 
                 group : 123, 
                 main_building : '2-Gum'
